@@ -1,0 +1,12 @@
+This note document will have interesting 
+ways to edit the code included in it.
+
+        //// ONE ////
+~ The console breakes at a designated value (reccomended under or equal to 35) 
+  -- Comment line 40
+  -- Remove comment in lines 44-48
+
+        //// TWO ////
+~ The console breakes at primes 
+  -- Remove comment in line 40
+  -- Comment lines 44-48
